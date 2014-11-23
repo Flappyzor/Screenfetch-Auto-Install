@@ -1,16 +1,11 @@
 Screenfetch-Auto-Install
 ========================
 
-I don't know why I made this, don't look at it.
+Well, if you decide to look at this then do this shit in order:
 
---- I would recommend running the script from your home directory, since it is basically the only directory I've seen this work in ---
+**sudo wget https://raw.githubusercontent.com/Flappyzor/Screenfetch-Auto-Install/master/bong.sh**
 
-Anyway so if you decide to look at this, here is the shit you need to do in order:
+**sudo bash ./bong.sh**
 
-sudo wget https://raw.githubusercontent.com/Flappyzor/Screenfetch-Auto-Install/master/bong.sh 
 
-sudo bash ./bong.sh
-
-And then hey look you used it wow
-
-o wwo wwo wo wwo wwo wwowow
+And there you have it, you have now commited to the buddymen.
