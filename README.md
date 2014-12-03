@@ -9,3 +9,5 @@ Well, if you decide to look at this then do this shit in order:
 
 
 And there you have it, you have now commited to the buddymen.
+
+If something doesn't work or something breaks on what ever twisted as shit distro you're using then email me: flappy@goat.si
