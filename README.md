@@ -5,7 +5,7 @@ Well, if you decide to look at this then do this shit in order:
 
 **sudo wget https://raw.githubusercontent.com/Flappyzor/Screenfetch-Auto-Install/master/sai.sh**
 
-**sudo bash bong.sh**
+**sudo bash sai.sh**
 
 
 And there you have it, you have now commited to the buddymen.
